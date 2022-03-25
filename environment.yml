@@ -1,0 +1,36 @@
+name: watchdog
+channels:
+  - eoas_ubc
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - importlib_resources
+  - numpy
+  - scipy
+  - pre-commit
+  - cmocean
+  - intake
+  - git
+  - gcsfs
+  - cartopy
+  - pooch
+  - mamba
+  - intake-esm
+  - dash
+  - matplotlib
+  - click
+  - conda-lock
+  - jupyter-book
+  - jupyter_sphinx
+  - sphinx>3.5
+  - jupyter
+  - jupytext
+  - pip
+  - conda-build
+  - ghp-import
+  - conda-verify
+  - anaconda-client
+  - setuptools_scm
+  
+
