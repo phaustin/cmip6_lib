@@ -11,7 +11,10 @@
     
       pip install -e . 
       
+    to bump the version to 0.2
+    
+      git tag 0.2
+      git push --tags
       
-    to bump the version:
     
       
